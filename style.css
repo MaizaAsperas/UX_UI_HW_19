@@ -14,7 +14,7 @@ body {
 .hero-section {
   min-height: 130vh;
   width: 100%;
-  background-image: url("assets/Mask group.png");
+  background-image: url("https://github.com/MaizaAsperas/UX_UI_HW_19/blob/main/Mask%20group.png?raw=true");
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@ body {
 }
 
 .hero-section .navbar .navbar-toggler-icon {
-  background-image: url("assets/bars-solid\ \(2\).svg");
+  background-image: url("https://raw.githubusercontent.com/MaizaAsperas/UX_UI_HW_19/5b7fe922fe6eb4d5017c60faac2d382ab2383f6d/bars-solid%20(2).svg");
 }
 
 .hero-section .navbar .navbar-nav {
@@ -176,7 +176,7 @@ body {
   .hero-section {
     min-height: 80vh;
     width: 100%;
-    background-image: url("assets/Group 92.png");
+    background-image: url("https://github.com/MaizaAsperas/UX_UI_HW_19/blob/main/Group%2092.png?raw=true");
     background-size: contain;
     background-position: top;
     background-repeat: no-repeat;
@@ -1097,7 +1097,7 @@ body {
 .footer-section {
   min-height: 45vh;
   width: 100%;
-  background-image: url("assets/Vector\ 10.png");
+  background-image: url("https://github.com/MaizaAsperas/UX_UI_HW_19/blob/main/Vector%2010.png?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -1184,7 +1184,7 @@ body {
   .footer-section {
     min-height: 60vh;
     width: 100%;
-    background-image: url("assets/Vector\ 10.png");
+    background-image: url("https://github.com/MaizaAsperas/UX_UI_HW_19/blob/main/Vector%2010.png?raw=true");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
