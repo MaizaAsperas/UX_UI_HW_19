@@ -11,13 +11,13 @@ body {
 /*   HERO SECTION   */
 
 .hero-section {
-  min-height: 128vh;
+  min-height: 125vh;
   width: 100%;
   background-image: url("https://github.com/MaizaAsperas/UX_UI_HW_19/blob/main/Group%2098.png?raw=true");
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
-  padding-top: 25px;
+  padding-top: 20px;
 }
 
 .hero-section .navbar .navbar-toggler {
@@ -77,7 +77,7 @@ body {
 
 .hero-section .middle .img-part .personal-img {
   position: relative;
-  top: -130px;
+  top: -120px;
   left: 50px;
   width: 350px;
 }
