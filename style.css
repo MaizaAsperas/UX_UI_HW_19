@@ -12,13 +12,13 @@ body {
 /*   HERO SECTION   */
 
 .hero-section {
-  min-height: 130vh;
+  min-height: 128vh;
   width: 100%;
   background-image: url("https://github.com/MaizaAsperas/UX_UI_HW_19/blob/main/Mask%20group.png?raw=true");
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
-  padding-top: 25px;
+  padding-top: 30px;
 }
 
 .hero-section .navbar .navbar-toggler {
