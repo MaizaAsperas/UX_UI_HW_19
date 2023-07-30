@@ -94,6 +94,13 @@ body {
   transition: 0.4s;
 }
 
+.select-work {
+  font-size: 60px;
+  color: #8d8dbe;
+  margin-bottom: 150px;
+  margin-top: 150px;
+}
+
 /*   SECTION-THREE   */
 
 .section-three {
