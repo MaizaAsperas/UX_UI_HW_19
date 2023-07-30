@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #faf9f5;
+  background-color: #FFFFFF;
 }
 
 /*   HERO SECTION   */
@@ -105,7 +105,7 @@ body {
 
 .section-three .container .card {
   width: 100%;
-  background-color: #ffffff;
+  background-color: #FBF9F9;
   border-radius: 10px;
   padding: 150px;
   height: 100%;
@@ -191,7 +191,7 @@ body {
 
 .section-four .container .card {
   width: 100%;
-  background-color: #ffffff;
+  background-color: #F2F4FA;
   border-radius: 10px;
   padding: 150px;
   height: 100%;
@@ -294,7 +294,7 @@ body {
 
 .section-five .container .card {
   width: 100%;
-  background-color: #ffffff;
+  background-color: #FDFBFA;
   border-radius: 10px;
   padding: 150px;
   height: 100%;
